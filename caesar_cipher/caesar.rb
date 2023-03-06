@@ -15,7 +15,7 @@ def caesar_cipher(string, shift)
   final_array.pack('C*')
 end 
 
-  puts caesar_cipher("What a string!zz", 5)
+  puts caesar_cipher("What a string!", 5)
   
 
 
